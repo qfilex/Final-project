@@ -1,0 +1,11 @@
+{
+  "name": "LUCLICENTA",
+  "version": "1.0.0",
+  "description": "Author recognition ",
+  "main": "index.js",
+  "scripts": {
+    "test": "try"
+  },
+  "author": "Gheorghe Cojocaru",
+  "license": "ISC"
+}
